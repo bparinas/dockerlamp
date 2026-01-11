@@ -1,10 +1,10 @@
 # Basic Docker LAMP
 
-[!Pre-requisites]
+[!PRE-REQUISITES]
 On windows host install wsl and setup ubuntu distro and docker/docker-compose within ubuntu
 On linux host just install docker and docker-compose
 
-[!Procedure]
+[!PROCEDURE]
 Clone this repo and update your specific php/mysql version in the ```docker-compose.yaml``` file
 execute the command: ```docker-compose up -d```
 
