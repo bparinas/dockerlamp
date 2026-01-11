@@ -14,5 +14,8 @@ c48d790449df   mysql:8.1.0             "docker-entrypoint.s…"   22 minutes ago
 ```
 Launch your browser and open phpmyadmin ```http://localhost:8080``` to manage mysql data and use the default mysql credential in docker-compose.yaml file meanwhile to access the php page use ```http://localhost```
 
+phpMyAdmin Screenshot
 ![sample phpmyadmin](/assets/images/phpmyadmin.png)
+
+phpinfo Screenshot
 ![sample phpinfo page](/assets/images/phpinfo.png)
